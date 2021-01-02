@@ -58,11 +58,11 @@
         },
         "vote": {
             "success": ":v: VOTE RÉUSSI",
-            "fail": ":x: VOTE RÉUSSI"
+            "fail": ":x: VOTE ÉCHOUÉ"
         },
         "boost": {
             "success": ":v: BOOST RÉUSSI",
-            "fail": ":x: BOOST RÉUSSI"
+            "fail": ":x: BOOST ÉCHOUÉ"
         },
         "top": {
             "description": "***Vous pouvez consulter ce top sur [DiscordTop.Org]({}) !\n***```{}```"
