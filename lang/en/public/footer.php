@@ -7,12 +7,12 @@
 	$FOOTER_SERVER_TITLE = "YOUR SERVER";
 	$FOOTER_SERVER_MEMBER = "Dashboard";
 	$FOOTER_SERVER_SERVER = "Add your server(s)";
-	$FOOTER_SERVER_BOT = "Add the bot";
+	$FOOTER_SERVER_BOT = "Bot Statut";
 	$FOOTER_SERVER_DISCORD = "Our Discord";
 
 	$FOOTER_LINKS_TITLE = "USEFULL LINKS";
 	$FOOTER_LINKS_TRANSLATE = "Translate this website";
-	$FOOTER_LINKS_GUIDELINES = "Guideline;";
+	$FOOTER_LINKS_GUIDELINES = "Guideline";
 	$FOOTER_LINKS_TOS = "Terms of Services";
 	$FOOTER_LINKS_THANKS = "Thanks";
 
