@@ -116,7 +116,7 @@
     $SERVER_SETTINGS_CARD_10_LOCKED = "Unlock this for 24 990 <sup>CASH</sup> and have access to this for lifetime !";
     $SERVER_SETTINGS_CARD_10_DESC = "Tired of having to remember your voting link? So use our personalized links! <i>Example : https://dtop.fr/dt</i> !<br>Your current link :";
 
-    $SERVER_SETTINGS_CARD_11_TITLE = "short description";
+    $SERVER_SETTINGS_CARD_11_TITLE = "Short description";
     $SERVER_SETTINGS_CARD_11_DESC = "You have 255 characters to describe your server, this description will be used for your referencing on DiscordTop but also on Google!";
 
     $SERVER_SETTINGS_CARD_12_TITLE = "Description";
