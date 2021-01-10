@@ -7,6 +7,7 @@
 	$MENU_TOP = "TOP'S";
 	$MENU_TOP_LANGUAGES = "LANGUAGES";
 	$MENU_TOP_LANGUAGES_ALL = "All";
+	$MENU_TOP_LEVEL = "Level";
 	$MENU_TOP_LIFETIME = "LifeTime";
 	$MENU_TOP_PER_WEEK = "Per Week";
 	$MENU_TOP_TODAY = "Today";

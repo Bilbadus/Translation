@@ -7,6 +7,7 @@
 	$MENU_TOP = "CLASIFICACIONES";
 	$MENU_TOP_LANGUAGES = "Per Idioma";
 	$MENU_TOP_LANGUAGES_ALL = "Todos";
+	$MENU_TOP_LEVEL = "Level";
 	$MENU_TOP_LIFETIME = "LifeTime";
 	$MENU_TOP_PER_WEEK = "Esta semana";
 	$MENU_TOP_TODAY = "Hoy";
