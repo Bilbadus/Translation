@@ -21,7 +21,7 @@
 
     $PROFILE_CARD_5_TITLE = "Votes par mois";
     
-    $PROFILE_CARD_6_TITLE = "Vos votes des 30 derniers jours";
+    $PROFILE_CARD_7_TITLE = "Vos votes des 30 derniers jours";
 
     $PROFILE_CARD_6_TITLE = "Historique des achats";
     $PROFILE_CARD_6_1 = "ID";
